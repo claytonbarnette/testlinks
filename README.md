@@ -1,5 +1,5 @@
-# testlinks
-Hello)[#testlink]
+
+(Hello)[/#testlink]
 
 <br/>
 <br/>
