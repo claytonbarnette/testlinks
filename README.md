@@ -1,5 +1,5 @@
 
-[Testing my Intralink](/#testlink)
+[Testing my Intralink](#testlink)
 
 <br/>
 <br/>
